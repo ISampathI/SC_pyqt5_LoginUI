@@ -1,5 +1,5 @@
 ######################################################
-##  SihinaCode > Search YouTube for more tutorials   ##
+##  SihinaCode > Search YouTube for more tutorials  ##
 ######################################################
 # -*- coding: utf-8 -*-
 
